@@ -83,7 +83,12 @@ question answering uses Qwen2.5-VL-7B or Qwen3-VL-4B in the paper's setup.
 Please consider citing our work as follows if it is helpful.
 
 ```
-TBD
+@article{zhao2026principled,
+  title={A Principled Optimal Transport Framework for Frame Selection in Long Video Understanding},
+  author={Zhao, Ziwei and Liu, Yuhang},
+  journal={arXiv preprint arXiv:2610.27692},
+  year={2026}
+}
 ```
 
 ## Acknowledgments

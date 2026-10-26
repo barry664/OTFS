@@ -1,0 +1,6 @@
+# Transition extraction only; install semantic dependencies following AKS.
+-r requirements.txt
+decord>=0.6.0
+Pillow>=9.0
+torch>=2.1
+transformers>=4.45

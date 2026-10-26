@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+data/
+# Generated benchmark evidence and selections belong under outputs/.
+artifacts/
+outputs/
+eval_tasks/
+results/
+logs/
+third_party/
+checkpoints/
+slurm-*.out
+*.npy
+*.pt
+*.pth
